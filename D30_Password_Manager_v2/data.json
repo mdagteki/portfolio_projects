@@ -1,0 +1,22 @@
+{
+    "Amazon": {
+        "email": "name.surname@somemail.com",
+        "password": "tTiT4zfuI%$1aG!"
+    },
+    "Facebook": {
+        "email": "name.surname@somemail.com",
+        "password": "LtE1*yd(G8If"
+    },
+    "Instagram": {
+        "email": "name.surname@somemail.com",
+        "password": "BN(XC8a#l2bZ0V"
+    },
+    "Twitter": {
+        "email": "name.surname@somemail.com",
+        "password": "!37r5Gh(YrPxIC!"
+    },
+    "Gmail": {
+        "email": "name.surname@somemail.com",
+        "password": "3lnJw&6uZEa&"
+    }
+}

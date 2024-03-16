@@ -1,0 +1,961 @@
+Month,Region,ProductGroup,Sales
+2010-01-01,Central,Accessories,375
+2010-01-01,Central,Construction Parts,72360.93
+2010-01-01,Central,Pipes,14013.93
+2010-01-01,Central,Tubes,2476.4
+2010-01-01,East,Accessories,40755.19
+2010-01-01,East,Construction Parts,71147.43
+2010-01-01,East,Pipes,100408.35
+2010-01-01,East,Tubes,23224.78
+2010-01-01,North,Accessories,8024.25
+2010-01-01,North,Construction Parts,117884.41
+2010-01-01,North,Pipes,68488.4
+2010-01-01,North,Tubes,9403
+2010-01-01,South,Accessories,2391
+2010-01-01,South,Construction Parts,3021
+2010-01-01,South,Pipes,0
+2010-01-01,South,Tubes,12175.4
+2010-01-01,West,Accessories,3647.5
+2010-01-01,West,Construction Parts,35463
+2010-01-01,West,Pipes,197208.76
+2010-01-01,West,Tubes,1449
+2010-02-01,Central,Accessories,2079
+2010-02-01,Central,Construction Parts,59921.12
+2010-02-01,Central,Pipes,50430.35
+2010-02-01,Central,Tubes,5752.6
+2010-02-01,East,Accessories,21143.1
+2010-02-01,East,Construction Parts,58739.3
+2010-02-01,East,Pipes,88666
+2010-02-01,East,Tubes,12258
+2010-02-01,North,Accessories,6326
+2010-02-01,North,Construction Parts,54031.85
+2010-02-01,North,Pipes,77982.86
+2010-02-01,North,Tubes,5950
+2010-02-01,South,Accessories,4653.5
+2010-02-01,South,Construction Parts,51545.43
+2010-02-01,South,Pipes,0
+2010-02-01,South,Tubes,19224.68
+2010-02-01,West,Accessories,12174.61
+2010-02-01,West,Construction Parts,79359.8
+2010-02-01,West,Pipes,47227.44
+2010-02-01,West,Tubes,5723.9
+2010-03-01,Central,Accessories,3711.9
+2010-03-01,Central,Construction Parts,152447.99
+2010-03-01,Central,Pipes,22322.68
+2010-03-01,Central,Tubes,7549.8
+2010-03-01,East,Accessories,16332.29
+2010-03-01,East,Construction Parts,36347.79
+2010-03-01,East,Pipes,70823.46
+2010-03-01,East,Tubes,8907.03
+2010-03-01,North,Accessories,11434.87
+2010-03-01,North,Construction Parts,100388.93
+2010-03-01,North,Pipes,99169.32
+2010-03-01,North,Tubes,13630
+2010-03-01,South,Accessories,0
+2010-03-01,South,Construction Parts,74702.9
+2010-03-01,South,Pipes,6500
+2010-03-01,South,Tubes,35413
+2010-03-01,West,Accessories,11242.8
+2010-03-01,West,Construction Parts,72977
+2010-03-01,West,Pipes,232206.75
+2010-03-01,West,Tubes,8640
+2010-04-01,Central,Accessories,2170.9
+2010-04-01,Central,Construction Parts,98726.54
+2010-04-01,Central,Pipes,10642.37
+2010-04-01,Central,Tubes,10539.8
+2010-04-01,East,Accessories,22011.88
+2010-04-01,East,Construction Parts,61976.65
+2010-04-01,East,Pipes,182400.4
+2010-04-01,East,Tubes,18326
+2010-04-01,North,Accessories,2310
+2010-04-01,North,Construction Parts,6649.7
+2010-04-01,North,Pipes,14773.05
+2010-04-01,North,Tubes,5875
+2010-04-01,South,Accessories,12430
+2010-04-01,South,Construction Parts,95972.22
+2010-04-01,South,Pipes,0
+2010-04-01,South,Tubes,343810.48
+2010-04-01,West,Accessories,9077.16
+2010-04-01,West,Construction Parts,41500
+2010-04-01,West,Pipes,0
+2010-04-01,West,Tubes,28084.2
+2010-05-01,Central,Accessories,6698.8
+2010-05-01,Central,Construction Parts,18075.21
+2010-05-01,Central,Pipes,1554.75
+2010-05-01,Central,Tubes,7834.12
+2010-05-01,East,Accessories,38983.58
+2010-05-01,East,Construction Parts,80025.27
+2010-05-01,East,Pipes,111154.43
+2010-05-01,East,Tubes,25740.5
+2010-05-01,North,Accessories,8930.3
+2010-05-01,North,Construction Parts,79996.56
+2010-05-01,North,Pipes,54333.12
+2010-05-01,North,Tubes,7921.42
+2010-05-01,South,Accessories,7074.76
+2010-05-01,South,Construction Parts,51206.39
+2010-05-01,South,Pipes,1868.76
+2010-05-01,South,Tubes,166684.37
+2010-05-01,West,Accessories,8915.11
+2010-05-01,West,Construction Parts,44585
+2010-05-01,West,Pipes,2900
+2010-05-01,West,Tubes,9774
+2010-06-01,Central,Accessories,10957.8
+2010-06-01,Central,Construction Parts,98041.51
+2010-06-01,Central,Pipes,60
+2010-06-01,Central,Tubes,5717.96
+2010-06-01,East,Accessories,44825.91
+2010-06-01,East,Construction Parts,89297.37
+2010-06-01,East,Pipes,93921.85
+2010-06-01,East,Tubes,9647
+2010-06-01,North,Accessories,3593.6
+2010-06-01,North,Construction Parts,43057.76
+2010-06-01,North,Pipes,24455.81
+2010-06-01,North,Tubes,8506
+2010-06-01,South,Accessories,416
+2010-06-01,South,Construction Parts,70651.14
+2010-06-01,South,Pipes,0
+2010-06-01,South,Tubes,59629.35
+2010-06-01,West,Accessories,0
+2010-06-01,West,Construction Parts,0
+2010-06-01,West,Pipes,0
+2010-06-01,West,Tubes,0
+2010-07-01,Central,Accessories,458
+2010-07-01,Central,Construction Parts,60655.88
+2010-07-01,Central,Pipes,4407.85
+2010-07-01,Central,Tubes,7449
+2010-07-01,East,Accessories,51926.7
+2010-07-01,East,Construction Parts,333716.24
+2010-07-01,East,Pipes,422268.26
+2010-07-01,East,Tubes,72327.49
+2010-07-01,North,Accessories,7057.53
+2010-07-01,North,Construction Parts,48595.45
+2010-07-01,North,Pipes,68335.96
+2010-07-01,North,Tubes,6350.4
+2010-07-01,South,Accessories,7995.92
+2010-07-01,South,Construction Parts,91255.65
+2010-07-01,South,Pipes,0
+2010-07-01,South,Tubes,77466
+2010-07-01,West,Accessories,328.16
+2010-07-01,West,Construction Parts,26100
+2010-07-01,West,Pipes,16205.67
+2010-07-01,West,Tubes,0
+2010-08-01,Central,Accessories,0
+2010-08-01,Central,Construction Parts,89859.98
+2010-08-01,Central,Pipes,0
+2010-08-01,Central,Tubes,7449.75
+2010-08-01,East,Accessories,70094.03
+2010-08-01,East,Construction Parts,658651.62
+2010-08-01,East,Pipes,266207.31
+2010-08-01,East,Tubes,51739.68
+2010-08-01,North,Accessories,1700.87
+2010-08-01,North,Construction Parts,63831.3
+2010-08-01,North,Pipes,115997.6
+2010-08-01,North,Tubes,10479.58
+2010-08-01,South,Accessories,22570.7
+2010-08-01,South,Construction Parts,79453.52
+2010-08-01,South,Pipes,0
+2010-08-01,South,Tubes,99290.37
+2010-08-01,West,Accessories,3323.95
+2010-08-01,West,Construction Parts,19105
+2010-08-01,West,Pipes,22580.86
+2010-08-01,West,Tubes,16988.75
+2010-09-01,Central,Accessories,127
+2010-09-01,Central,Construction Parts,89551.66
+2010-09-01,Central,Pipes,7604
+2010-09-01,Central,Tubes,3173
+2010-09-01,East,Accessories,114611.46
+2010-09-01,East,Construction Parts,273083.33
+2010-09-01,East,Pipes,220203.97
+2010-09-01,East,Tubes,42940.49
+2010-09-01,North,Accessories,12052
+2010-09-01,North,Construction Parts,45415.8
+2010-09-01,North,Pipes,28328.8
+2010-09-01,North,Tubes,4114
+2010-09-01,South,Accessories,7245
+2010-09-01,South,Construction Parts,93466.9
+2010-09-01,South,Pipes,58816.8
+2010-09-01,South,Tubes,95546.56
+2010-09-01,West,Accessories,2420
+2010-09-01,West,Construction Parts,5280
+2010-09-01,West,Pipes,0
+2010-09-01,West,Tubes,4590
+2010-10-01,Central,Accessories,4597.15
+2010-10-01,Central,Construction Parts,53874.97
+2010-10-01,Central,Pipes,21621.64
+2010-10-01,Central,Tubes,14676.3
+2010-10-01,East,Accessories,54939.88
+2010-10-01,East,Construction Parts,119328.32
+2010-10-01,East,Pipes,238735.98
+2010-10-01,East,Tubes,32472.49
+2010-10-01,North,Accessories,9004.99
+2010-10-01,North,Construction Parts,52828.66
+2010-10-01,North,Pipes,54906.8
+2010-10-01,North,Tubes,10105.32
+2010-10-01,South,Accessories,22792
+2010-10-01,South,Construction Parts,95460.24
+2010-10-01,South,Pipes,37783.69
+2010-10-01,South,Tubes,103283.6
+2010-10-01,West,Accessories,6520
+2010-10-01,West,Construction Parts,30905
+2010-10-01,West,Pipes,0
+2010-10-01,West,Tubes,14689.01
+2010-11-01,Central,Accessories,4083.09
+2010-11-01,Central,Construction Parts,167692.789
+2010-11-01,Central,Pipes,24554.948
+2010-11-01,Central,Tubes,8304.78
+2010-11-01,East,Accessories,17965.519
+2010-11-01,East,Construction Parts,39982.569
+2010-11-01,East,Pipes,77905.806
+2010-11-01,East,Tubes,9797.733
+2010-11-01,North,Accessories,12578.357
+2010-11-01,North,Construction Parts,110427.823
+2010-11-01,North,Pipes,109086.252
+2010-11-01,North,Tubes,14993
+2010-11-01,South,Accessories,0
+2010-11-01,South,Construction Parts,82173.19
+2010-11-01,South,Pipes,7150
+2010-11-01,South,Tubes,38954.3
+2010-11-01,West,Accessories,12367.08
+2010-11-01,West,Construction Parts,80274.7
+2010-11-01,West,Pipes,255427.425
+2010-11-01,West,Tubes,9504
+2010-12-01,Central,Accessories,8987.825
+2010-12-01,Central,Construction Parts,75537.842
+2010-12-01,Central,Pipes,39586.427
+2010-12-01,Central,Tubes,27026.61
+2010-12-01,East,Accessories,35489.736
+2010-12-01,East,Construction Parts,71052.612
+2010-12-01,East,Pipes,117849.286
+2010-12-01,East,Tubes,34225.081
+2010-12-01,North,Accessories,1449
+2010-12-01,North,Construction Parts,62147.587
+2010-12-01,North,Pipes,79550.4565
+2010-12-01,North,Tubes,1345.5
+2010-12-01,South,Accessories,15780.622
+2010-12-01,South,Construction Parts,4571.25
+2010-12-01,South,Pipes,18075.7
+2010-12-01,South,Tubes,8016.9375
+2010-12-01,West,Accessories,3772.46
+2010-12-01,West,Construction Parts,64826.328
+2010-12-01,West,Pipes,73414.8845
+2010-12-01,West,Tubes,9867
+2011-01-01,Central,Accessories,5378.432203
+2011-01-01,Central,Construction Parts,34140.05085
+2011-01-01,Central,Pipes,0
+2011-01-01,Central,Tubes,2217.254237
+2011-01-01,East,Accessories,50125.80508
+2011-01-01,East,Construction Parts,24582.52542
+2011-01-01,East,Pipes,182673.8644
+2011-01-01,East,Tubes,7831.567797
+2011-01-01,North,Accessories,4100
+2011-01-01,North,Construction Parts,103062.5254
+2011-01-01,North,Pipes,149247.8051
+2011-01-01,North,Tubes,1949.152542
+2011-01-01,South,Accessories,3921.610169
+2011-01-01,South,Construction Parts,133347.8051
+2011-01-01,South,Pipes,0
+2011-01-01,South,Tubes,37086.86441
+2011-01-01,West,Accessories,19377.88136
+2011-01-01,West,Construction Parts,35593.79661
+2011-01-01,West,Pipes,0
+2011-01-01,West,Tubes,14354.57627
+2011-02-01,Central,Accessories,453.4576271
+2011-02-01,Central,Construction Parts,55514.88136
+2011-02-01,Central,Pipes,0
+2011-02-01,Central,Tubes,711.8644068
+2011-02-01,East,Accessories,42053.25424
+2011-02-01,East,Construction Parts,106247.3898
+2011-02-01,East,Pipes,203173.3814
+2011-02-01,East,Tubes,31742.9661
+2011-02-01,North,Accessories,12800.67797
+2011-02-01,North,Construction Parts,136101.4915
+2011-02-01,North,Pipes,216028.4407
+2011-02-01,North,Tubes,9512.711864
+2011-02-01,South,Accessories,355.9322034
+2011-02-01,South,Construction Parts,107968.2203
+2011-02-01,South,Pipes,0
+2011-02-01,South,Tubes,24432.20339
+2011-02-01,West,Accessories,12750.84746
+2011-02-01,West,Construction Parts,46353.38983
+2011-02-01,West,Pipes,46201.69492
+2011-02-01,West,Tubes,11333.89831
+2011-03-01,Central,Accessories,12208.98305
+2011-03-01,Central,Construction Parts,33021.74576
+2011-03-01,Central,Pipes,23612.5339
+2011-03-01,Central,Tubes,13414.83051
+2011-03-01,East,Accessories,23314.01695
+2011-03-01,East,Construction Parts,27359.73729
+2011-03-01,East,Pipes,67223.63559
+2011-03-01,East,Tubes,9159.533898
+2011-03-01,North,Accessories,5394.70339
+2011-03-01,North,Construction Parts,196628.3983
+2011-03-01,North,Pipes,244674.4068
+2011-03-01,North,Tubes,11764.23729
+2011-03-01,South,Accessories,11644.0678
+2011-03-01,South,Construction Parts,242804.6864
+2011-03-01,South,Pipes,0
+2011-03-01,South,Tubes,50009.32203
+2011-03-01,West,Accessories,31410.11017
+2011-03-01,West,Construction Parts,175510.4407
+2011-03-01,West,Pipes,42999.57627
+2011-03-01,West,Tubes,32806.83051
+2011-04-01,Central,Accessories,5961.949153
+2011-04-01,Central,Construction Parts,60271.40678
+2011-04-01,Central,Pipes,7164.008475
+2011-04-01,Central,Tubes,5930
+2011-04-01,East,Accessories,17112.74576
+2011-04-01,East,Construction Parts,57474.22034
+2011-04-01,East,Pipes,61050.08475
+2011-04-01,East,Tubes,8099.576271
+2011-04-01,North,Accessories,8926.271186
+2011-04-01,North,Construction Parts,59906.61017
+2011-04-01,North,Pipes,117508.6949
+2011-04-01,North,Tubes,6730.508475
+2011-04-01,South,Accessories,7.627118644
+2011-04-01,South,Construction Parts,208277.7119
+2011-04-01,South,Pipes,0
+2011-04-01,South,Tubes,94493.38983
+2011-04-01,West,Accessories,20965.50847
+2011-04-01,West,Construction Parts,113568.7627
+2011-04-01,West,Pipes,93999.11017
+2011-04-01,West,Tubes,20307.94915
+2011-05-01,Central,Accessories,4139.915254
+2011-05-01,Central,Construction Parts,84577.47458
+2011-05-01,Central,Pipes,1916.991525
+2011-05-01,Central,Tubes,2035.59322
+2011-05-01,East,Accessories,1533.79661
+2011-05-01,East,Construction Parts,47001.21186
+2011-05-01,East,Pipes,71517.69492
+2011-05-01,East,Tubes,5658.474576
+2011-05-01,North,Accessories,12652.11864
+2011-05-01,North,Construction Parts,60977.9322
+2011-05-01,North,Pipes,116310.6695
+2011-05-01,North,Tubes,1686.440678
+2011-05-01,South,Accessories,23348.14407
+2011-05-01,South,Construction Parts,179350.2966
+2011-05-01,South,Pipes,0
+2011-05-01,South,Tubes,229509.1864
+2011-05-01,West,Accessories,3479.669492
+2011-05-01,West,Construction Parts,739.8305085
+2011-05-01,West,Pipes,0
+2011-05-01,West,Tubes,98984.74576
+2011-06-01,Central,Accessories,3359.745763
+2011-06-01,Central,Construction Parts,40585.99153
+2011-06-01,Central,Pipes,16009.07627
+2011-06-01,Central,Tubes,13379.05932
+2011-06-01,East,Accessories,24150.99153
+2011-06-01,East,Construction Parts,112881.6356
+2011-06-01,East,Pipes,285940.2881
+2011-06-01,East,Tubes,21890.50847
+2011-06-01,North,Accessories,4881.355932
+2011-06-01,North,Construction Parts,99794.08475
+2011-06-01,North,Pipes,144647.7627
+2011-06-01,North,Tubes,18922.94915
+2011-06-01,South,Accessories,2408.050847
+2011-06-01,South,Construction Parts,235507.3136
+2011-06-01,South,Pipes,0
+2011-06-01,South,Tubes,173104.0169
+2011-06-01,West,Accessories,1790.271186
+2011-06-01,West,Construction Parts,3636.677966
+2011-06-01,West,Pipes,0
+2011-06-01,West,Tubes,35854.84746
+2011-07-01,Central,Accessories,1588.983051
+2011-07-01,Central,Construction Parts,58706.39831
+2011-07-01,Central,Pipes,463.559322
+2011-07-01,Central,Tubes,1448.474576
+2011-07-01,East,Accessories,30457.29661
+2011-07-01,East,Construction Parts,172477.8475
+2011-07-01,East,Pipes,406106.6271
+2011-07-01,East,Tubes,6542.79661
+2011-07-01,North,Accessories,19895.84746
+2011-07-01,North,Construction Parts,219502.5085
+2011-07-01,North,Pipes,286030.8983
+2011-07-01,North,Tubes,25232.19492
+2011-07-01,South,Accessories,12623.76271
+2011-07-01,South,Construction Parts,333374.6949
+2011-07-01,South,Pipes,0
+2011-07-01,South,Tubes,213251.4661
+2011-07-01,West,Accessories,24116.10169
+2011-07-01,West,Construction Parts,0
+2011-07-01,West,Pipes,0
+2011-07-01,West,Tubes,8484.745763
+2011-08-01,Central,Accessories,925.4237288
+2011-08-01,Central,Construction Parts,130892.5085
+2011-08-01,Central,Pipes,2408.262712
+2011-08-01,Central,Tubes,1342.79661
+2011-08-01,East,Accessories,130335.4831
+2011-08-01,East,Construction Parts,423119.0508
+2011-08-01,East,Pipes,313698.7458
+2011-08-01,East,Tubes,65634.86441
+2011-08-01,North,Accessories,16093.38983
+2011-08-01,North,Construction Parts,154910.1949
+2011-08-01,North,Pipes,198482.6441
+2011-08-01,North,Tubes,41256.86441
+2011-08-01,South,Accessories,63114.50847
+2011-08-01,South,Construction Parts,244367.5
+2011-08-01,South,Pipes,0
+2011-08-01,South,Tubes,232097.9153
+2011-08-01,West,Accessories,14124.78814
+2011-08-01,West,Construction Parts,8427.347458
+2011-08-01,West,Pipes,47250.10169
+2011-08-01,West,Tubes,12543.9661
+2011-09-01,Central,Accessories,9212.85
+2011-09-01,Central,Construction Parts,107744.3055
+2011-09-01,Central,Pipes,5110.155
+2011-09-01,Central,Tubes,5549.94
+2011-09-01,East,Accessories,135874.8495
+2011-09-01,East,Construction Parts,376717.041
+2011-09-01,East,Pipes,250816.5225
+2011-09-01,East,Tubes,43909.0155
+2011-09-01,North,Accessories,28137.2175
+2011-09-01,North,Construction Parts,71580.7035
+2011-09-01,North,Pipes,52120.215
+2011-09-01,North,Tubes,13343.9805
+2011-09-01,South,Accessories,88560.5535
+2011-09-01,South,Construction Parts,89974.053
+2011-09-01,South,Pipes,37114.551
+2011-09-01,South,Tubes,104953.0455
+2011-09-01,West,Accessories,5935.95
+2011-09-01,West,Construction Parts,5258.25
+2011-09-01,West,Pipes,19663.884
+2011-09-01,West,Tubes,5619.51
+2011-10-01,Central,Accessories,10223.8875
+2011-10-01,Central,Construction Parts,164075.742
+2011-10-01,Central,Pipes,11766.078
+2011-10-01,Central,Tubes,11463.2325
+2011-10-01,East,Accessories,78199.8975
+2011-10-01,East,Construction Parts,148120.344
+2011-10-01,East,Pipes,224790.795
+2011-10-01,East,Tubes,41250.8565
+2011-10-01,North,Accessories,13371.7455
+2011-10-01,North,Construction Parts,89809.9965
+2011-10-01,North,Pipes,83281.338
+2011-10-01,North,Tubes,7214.382
+2011-10-01,South,Accessories,25330.3425
+2011-10-01,South,Construction Parts,72760.842
+2011-10-01,South,Pipes,17002.6605
+2011-10-01,South,Tubes,71746.7625
+2011-10-01,West,Accessories,4629.15
+2011-10-01,West,Construction Parts,22187.25
+2011-10-01,West,Pipes,24596.82
+2011-10-01,West,Tubes,7870.0545
+2011-11-01,Central,Accessories,9108.175
+2011-11-01,Central,Construction Parts,56320.3625
+2011-11-01,Central,Pipes,31086.1575
+2011-11-01,Central,Tubes,11030.96
+2011-11-01,East,Accessories,41700.405
+2011-11-01,East,Construction Parts,75220.8605
+2011-11-01,East,Pipes,190783.2565
+2011-11-01,East,Tubes,13983.095
+2011-11-01,North,Accessories,3533.875
+2011-11-01,North,Construction Parts,10357.964
+2011-11-01,North,Pipes,12529.0595
+2011-11-01,North,Tubes,5549.65
+2011-11-01,South,Accessories,33044.7275
+2011-11-01,South,Construction Parts,49410.891
+2011-11-01,South,Pipes,0
+2011-11-01,South,Tubes,23909.531
+2011-11-01,West,Accessories,1314.95
+2011-11-01,West,Construction Parts,7621.95
+2011-11-01,West,Pipes,0
+2011-11-01,West,Tubes,285.6
+2011-12-01,Central,Accessories,7346.57
+2011-12-01,Central,Construction Parts,61743.9752
+2011-12-01,Central,Pipes,32357.6012
+2011-12-01,Central,Tubes,22091.316
+2011-12-01,East,Accessories,29009.0016
+2011-12-01,East,Construction Parts,58077.7872
+2011-12-01,East,Pipes,96328.9816
+2011-12-01,East,Tubes,27975.2836
+2011-12-01,North,Accessories,1184.4
+2011-12-01,North,Construction Parts,50798.8972
+2011-12-01,North,Pipes,65023.8514
+2011-12-01,North,Tubes,1099.8
+2011-12-01,South,Accessories,12898.9432
+2011-12-01,South,Construction Parts,3736.5
+2011-12-01,South,Pipes,14774.92
+2011-12-01,South,Tubes,6552.975
+2011-12-01,West,Accessories,3083.576
+2011-12-01,West,Construction Parts,52988.4768
+2011-12-01,West,Pipes,60008.6882
+2011-12-01,West,Tubes,8065.2
+2012-01-01,Central,Accessories,1917.810734
+2012-01-01,Central,Construction Parts,44998.20362
+2012-01-01,Central,Pipes,4671.31
+2012-01-01,Central,Tubes,2386.951412
+2012-01-01,East,Accessories,35998.71503
+2012-01-01,East,Construction Parts,50921.15181
+2012-01-01,East,Pipes,124838.2915
+2012-01-01,East,Tubes,11404.11593
+2012-01-01,North,Accessories,5798.583333
+2012-01-01,North,Construction Parts,113999.2885
+2012-01-01,North,Pipes,102551.2184
+2012-01-01,North,Tubes,5089.217514
+2012-01-01,South,Accessories,2500.870056
+2012-01-01,South,Construction Parts,45456.26836
+2012-01-01,South,Pipes,0
+2012-01-01,South,Tubes,16420.7548
+2012-01-01,West,Accessories,7687.460452
+2012-01-01,West,Construction Parts,27920.9322
+2012-01-01,West,Pipes,65736.25333
+2012-01-01,West,Tubes,5281.858757
+2012-02-01,Central,Accessories,953.899209
+2012-02-01,Central,Construction Parts,41535.88712
+2012-02-01,Central,Pipes,19628.45
+2012-02-01,Central,Tubes,2346.821469
+2012-02-01,East,Accessories,27476.75141
+2012-02-01,East,Construction Parts,62651.16328
+2012-02-01,East,Pipes,110889.2171
+2012-02-01,East,Tubes,19717.1887
+2012-02-01,North,Accessories,8056.992655
+2012-02-01,North,Construction Parts,87612.65718
+2012-02-01,North,Pipes,120994.6269
+2012-02-01,North,Tubes,7518.570621
+2012-02-01,South,Accessories,2391.277401
+2012-02-01,South,Construction Parts,55538.21678
+2012-02-01,South,Pipes,0
+2012-02-01,South,Tubes,28941.86113
+2012-02-01,West,Accessories,8383.485819
+2012-02-01,West,Construction Parts,55659.39661
+2012-02-01,West,Pipes,44424.65164
+2012-02-01,West,Tubes,5685.932768
+2012-03-01,Central,Accessories,8873.111017
+2012-03-01,Central,Construction Parts,69780.78525
+2012-03-01,Central,Pipes,15311.73797
+2012-03-01,Central,Tubes,15118.91017
+2012-03-01,East,Accessories,19703.91898
+2012-03-01,East,Construction Parts,25606.93243
+2012-03-01,East,Pipes,69160.0152
+2012-03-01,East,Tubes,8093.954633
+2012-03-01,North,Accessories,10206.9178
+2012-03-01,North,Construction Parts,151418.7594
+2012-03-01,North,Pipes,138528.4489
+2012-03-01,North,Tubes,10495.34576
+2012-03-01,South,Accessories,3943.982599
+2012-03-01,South,Construction Parts,105835.8621
+2012-03-01,South,Pipes,3133.65
+2012-03-01,South,Tubes,28812.77401
+2012-03-01,West,Accessories,15836.63672
+2012-03-01,West,Construction Parts,92303.15356
+2012-03-01,West,Pipes,139028.1854
+2012-03-01,West,Tubes,17115.61017
+2012-04-01,Central,Accessories,2710.949718
+2012-04-01,Central,Construction Parts,53026.51559
+2012-04-01,Central,Pipes,5935.459492
+2012-04-01,Central,Tubes,5525.933333
+2012-04-01,East,Accessories,21297.96859
+2012-04-01,East,Construction Parts,53970.47345
+2012-04-01,East,Pipes,162155.3049
+2012-04-01,East,Tubes,10676.59209
+2012-04-01,North,Accessories,6963.633729
+2012-04-01,North,Construction Parts,72975.93672
+2012-04-01,North,Pipes,107926.555
+2012-04-01,North,Tubes,12154.70282
+2012-04-01,South,Accessories,4172.542373
+2012-04-01,South,Construction Parts,112436.644
+2012-04-01,South,Pipes,0
+2012-04-01,South,Tubes,146101.2899
+2012-04-01,West,Accessories,37868.14949
+2012-04-01,West,Construction Parts,93248.28424
+2012-04-01,West,Pipes,65602.57672
+2012-04-01,West,Tubes,23509.09972
+2012-05-01,Central,Accessories,8490.171751
+2012-05-01,Central,Construction Parts,47739.58819
+2012-05-01,Central,Pipes,27144.30384
+2012-05-01,Central,Tubes,8620.904407
+2012-05-01,East,Accessories,17537.45887
+2012-05-01,East,Construction Parts,63808.24395
+2012-05-01,East,Pipes,188519.6183
+2012-05-01,East,Tubes,13434.72486
+2012-05-01,North,Accessories,14548.12288
+2012-05-01,North,Construction Parts,132028.8641
+2012-05-01,North,Pipes,179849.4032
+2012-05-01,North,Tubes,6320.406893
+2012-05-01,South,Accessories,10786.13469
+2012-05-01,South,Construction Parts,76852.22887
+2012-05-01,South,Pipes,622.92
+2012-05-01,South,Tubes,140901.1855
+2012-05-01,West,Accessories,38792.45316
+2012-05-01,West,Construction Parts,74069.98017
+2012-05-01,West,Pipes,10939.90333
+2012-05-01,West,Tubes,113094.8519
+2012-06-01,Central,Accessories,5959.181921
+2012-06-01,Central,Construction Parts,74914.54718
+2012-06-01,Central,Pipes,10608.82542
+2012-06-01,Central,Tubes,8009.673107
+2012-06-01,East,Accessories,29343.46718
+2012-06-01,East,Construction Parts,167321.7519
+2012-06-01,East,Pipes,309834.446
+2012-06-01,East,Tubes,15759.33616
+2012-06-01,North,Accessories,9709.138644
+2012-06-01,North,Construction Parts,168386.1549
+2012-06-01,North,Pipes,261188.0009
+2012-06-01,North,Tubes,18571.18638
+2012-06-01,South,Accessories,27295.51695
+2012-06-01,South,Construction Parts,117341.9845
+2012-06-01,South,Pipes,0
+2012-06-01,South,Tubes,80595.62232
+2012-06-01,West,Accessories,1328.423729
+2012-06-01,West,Construction Parts,7460.942655
+2012-06-01,West,Pipes,0
+2012-06-01,West,Tubes,28120.48915
+2012-07-01,Central,Accessories,4238.127684
+2012-07-01,Central,Construction Parts,53871.0561
+2012-07-01,Central,Pipes,7652.989774
+2012-07-01,Central,Tubes,4265.491525
+2012-07-01,East,Accessories,41034.16554
+2012-07-01,East,Construction Parts,280894.5692
+2012-07-01,East,Pipes,599441.0357
+2012-07-01,East,Tubes,39389.01554
+2012-07-01,North,Accessories,25458.33915
+2012-07-01,North,Construction Parts,284413.4062
+2012-07-01,North,Pipes,221912.9494
+2012-07-01,North,Tubes,21746.89497
+2012-07-01,South,Accessories,58906.9909
+2012-07-01,South,Construction Parts,211835.615
+2012-07-01,South,Pipes,0
+2012-07-01,South,Tubes,114404.762
+2012-07-01,West,Accessories,8251.087232
+2012-07-01,West,Construction Parts,17258
+2012-07-01,West,Pipes,10706.89
+2012-07-01,West,Tubes,5150.871921
+2012-08-01,Central,Accessories,8400.60791
+2012-08-01,Central,Construction Parts,109118.0928
+2012-08-01,Central,Pipes,19504.75424
+2012-08-01,Central,Tubes,4131.34887
+2012-08-01,East,Accessories,107928.1044
+2012-08-01,East,Construction Parts,746132.1803
+2012-08-01,East,Pipes,353778.4553
+2012-08-01,East,Tubes,55400.99814
+2012-08-01,North,Accessories,31787.69661
+2012-08-01,North,Construction Parts,176589.735
+2012-08-01,North,Pipes,217377.008
+2012-08-01,North,Tubes,38175.3448
+2012-08-01,South,Accessories,72573.72282
+2012-08-01,South,Construction Parts,116689.1767
+2012-08-01,South,Pipes,4562.906667
+2012-08-01,South,Tubes,156762.4984
+2012-08-01,West,Accessories,6326.082712
+2012-08-01,West,Construction Parts,26177.44915
+2012-08-01,West,Pipes,27354.82723
+2012-08-01,West,Tubes,10177.2387
+2012-09-01,Central,Accessories,10236.5
+2012-09-01,Central,Construction Parts,119715.895
+2012-09-01,Central,Pipes,5677.95
+2012-09-01,Central,Tubes,6166.6
+2012-09-01,East,Accessories,150972.055
+2012-09-01,East,Construction Parts,418574.49
+2012-09-01,East,Pipes,278685.025
+2012-09-01,East,Tubes,48787.795
+2012-09-01,North,Accessories,31263.575
+2012-09-01,North,Construction Parts,79534.115
+2012-09-01,North,Pipes,57911.35
+2012-09-01,North,Tubes,14826.645
+2012-09-01,South,Accessories,98400.615
+2012-09-01,South,Construction Parts,99971.17
+2012-09-01,South,Pipes,41238.39
+2012-09-01,South,Tubes,116614.495
+2012-09-01,West,Accessories,6595.5
+2012-09-01,West,Construction Parts,5842.5
+2012-09-01,West,Pipes,21848.76
+2012-09-01,West,Tubes,6243.9
+2012-10-01,Central,Accessories,11359.875
+2012-10-01,Central,Construction Parts,182306.38
+2012-10-01,Central,Pipes,13073.42
+2012-10-01,Central,Tubes,12736.925
+2012-10-01,East,Accessories,86888.775
+2012-10-01,East,Construction Parts,164578.16
+2012-10-01,East,Pipes,249767.55
+2012-10-01,East,Tubes,45834.285
+2012-10-01,North,Accessories,14857.495
+2012-10-01,North,Construction Parts,99788.885
+2012-10-01,North,Pipes,92534.82
+2012-10-01,North,Tubes,8015.98
+2012-10-01,South,Accessories,28144.825
+2012-10-01,South,Construction Parts,80845.38
+2012-10-01,South,Pipes,18891.845
+2012-10-01,South,Tubes,79718.625
+2012-10-01,West,Accessories,5143.5
+2012-10-01,West,Construction Parts,24652.5
+2012-10-01,West,Pipes,27329.8
+2012-10-01,West,Tubes,8744.505
+2012-11-01,Central,Accessories,10715.5
+2012-11-01,Central,Construction Parts,66259.25
+2012-11-01,Central,Pipes,36571.95
+2012-11-01,Central,Tubes,12977.6
+2012-11-01,East,Accessories,49059.3
+2012-11-01,East,Construction Parts,88495.13
+2012-11-01,East,Pipes,224450.89
+2012-11-01,East,Tubes,16450.7
+2012-11-01,North,Accessories,4157.5
+2012-11-01,North,Construction Parts,12185.84
+2012-11-01,North,Pipes,14740.07
+2012-11-01,North,Tubes,6529
+2012-11-01,South,Accessories,38876.15
+2012-11-01,South,Construction Parts,58130.46
+2012-11-01,South,Pipes,0
+2012-11-01,South,Tubes,28128.86
+2012-11-01,West,Accessories,1547
+2012-11-01,West,Construction Parts,8967
+2012-11-01,West,Pipes,0
+2012-11-01,West,Tubes,336
+2012-12-01,Central,Accessories,7815.5
+2012-12-01,Central,Construction Parts,65685.08
+2012-12-01,Central,Pipes,34422.98
+2012-12-01,Central,Tubes,23501.4
+2012-12-01,East,Accessories,30860.64
+2012-12-01,East,Construction Parts,61784.88
+2012-12-01,East,Pipes,102477.64
+2012-12-01,East,Tubes,29760.94
+2012-12-01,North,Accessories,1260
+2012-12-01,North,Construction Parts,54041.38
+2012-12-01,North,Pipes,69174.31
+2012-12-01,North,Tubes,1170
+2012-12-01,South,Accessories,13722.28
+2012-12-01,South,Construction Parts,3975
+2012-12-01,South,Pipes,15718
+2012-12-01,South,Tubes,6971.25
+2012-12-01,West,Accessories,3280.4
+2012-12-01,West,Construction Parts,56370.72
+2012-12-01,West,Pipes,63839.03
+2012-12-01,West,Tubes,8580
+2013-01-01,Central,Accessories,0
+2013-01-01,Central,Construction Parts,28493.63
+2013-01-01,Central,Pipes,0
+2013-01-01,Central,Tubes,2467.2
+2013-01-01,East,Accessories,17115.15
+2013-01-01,East,Construction Parts,57033.5
+2013-01-01,East,Pipes,91432.66
+2013-01-01,East,Tubes,3156
+2013-01-01,North,Accessories,5271.5
+2013-01-01,North,Construction Parts,121050.93
+2013-01-01,North,Pipes,89917.45
+2013-01-01,North,Tubes,3915.5
+2013-01-01,South,Accessories,1190
+2013-01-01,South,Construction Parts,0
+2013-01-01,South,Pipes,0
+2013-01-01,South,Tubes,0
+2013-01-01,West,Accessories,37
+2013-01-01,West,Construction Parts,12706
+2013-01-01,West,Pipes,0
+2013-01-01,West,Tubes,42
+2013-02-01,Central,Accessories,329.24
+2013-02-01,Central,Construction Parts,9171.66
+2013-02-01,Central,Pipes,8455
+2013-02-01,Central,Tubes,576
+2013-02-01,East,Accessories,19233.9
+2013-02-01,East,Construction Parts,22966.8
+2013-02-01,East,Pipes,40828.27
+2013-02-01,East,Tubes,15150.6
+2013-02-01,North,Accessories,5044.3
+2013-02-01,North,Construction Parts,72704.63
+2013-02-01,North,Pipes,68972.58
+2013-02-01,North,Tubes,7093
+2013-02-01,South,Accessories,2164.4
+2013-02-01,South,Construction Parts,7101
+2013-02-01,South,Pipes,0
+2013-02-01,South,Tubes,43168.7
+2013-02-01,West,Accessories,225
+2013-02-01,West,Construction Parts,41265
+2013-02-01,West,Pipes,39844.82
+2013-02-01,West,Tubes,0
+2013-03-01,Central,Accessories,10698.45
+2013-03-01,Central,Construction Parts,23872.62
+2013-03-01,Central,Pipes,0
+2013-03-01,Central,Tubes,24392.1
+2013-03-01,East,Accessories,19465.45
+2013-03-01,East,Construction Parts,13113.27
+2013-03-01,East,Pipes,69432.95
+2013-03-01,East,Tubes,6215.3
+2013-03-01,North,Accessories,13791.18
+2013-03-01,North,Construction Parts,157238.95
+2013-03-01,North,Pipes,71741.62
+2013-03-01,North,Tubes,6091.8
+2013-03-01,South,Accessories,187.88
+2013-03-01,South,Construction Parts,0
+2013-03-01,South,Pipes,2900.95
+2013-03-01,South,Tubes,1016
+2013-03-01,West,Accessories,4857
+2013-03-01,West,Construction Parts,28422.02
+2013-03-01,West,Pipes,141878.23
+2013-03-01,West,Tubes,9900
+2013-04-01,Central,Accessories,0
+2013-04-01,Central,Construction Parts,81.6
+2013-04-01,Central,Pipes,0
+2013-04-01,Central,Tubes,108
+2013-04-01,East,Accessories,24769.28
+2013-04-01,East,Construction Parts,42460.55
+2013-04-01,East,Pipes,243015.43
+2013-04-01,East,Tubes,5604.2
+2013-04-01,North,Accessories,9654.63
+2013-04-01,North,Construction Parts,152371.5
+2013-04-01,North,Pipes,191497.92
+2013-04-01,North,Tubes,23858.6
+2013-04-01,South,Accessories,80
+2013-04-01,South,Construction Parts,33060
+2013-04-01,South,Pipes,0
+2013-04-01,South,Tubes,0
+2013-04-01,West,Accessories,83561.78
+2013-04-01,West,Construction Parts,124676.09
+2013-04-01,West,Pipes,102808.62
+2013-04-01,West,Tubes,22135.15
+2013-05-01,Central,Accessories,14631.8
+2013-05-01,Central,Construction Parts,40566.08
+2013-05-01,Central,Pipes,77961.17
+2013-05-01,Central,Tubes,15993
+2013-05-01,East,Accessories,12095
+2013-05-01,East,Construction Parts,64398.25
+2013-05-01,East,Pipes,382886.73
+2013-05-01,East,Tubes,8905.2
+2013-05-01,North,Accessories,22061.95
+2013-05-01,North,Construction Parts,255112.1
+2013-05-01,North,Pipes,368904.42
+2013-05-01,North,Tubes,9353.36
+2013-05-01,South,Accessories,1935.5
+2013-05-01,South,Construction Parts,0
+2013-05-01,South,Pipes,0
+2013-05-01,South,Tubes,26510
+2013-05-01,West,Accessories,103982.58
+2013-05-01,West,Construction Parts,176885.11
+2013-05-01,West,Pipes,29919.71
+2013-05-01,West,Tubes,230525.81
+2013-06-01,Central,Accessories,3560
+2013-06-01,Central,Construction Parts,86116.14
+2013-06-01,Central,Pipes,15757.4
+2013-06-01,Central,Tubes,4932
+2013-06-01,East,Accessories,19053.5
+2013-06-01,East,Construction Parts,299786.25
+2013-06-01,East,Pipes,549641.2
+2013-06-01,East,Tubes,15740.5
+2013-06-01,North,Accessories,20652.46
+2013-06-01,North,Construction Parts,362306.62
+2013-06-01,North,Pipes,614460.43
+2013-06-01,North,Tubes,28284.61
+2013-06-01,South,Accessories,79062.5
+2013-06-01,South,Construction Parts,45867.5
+2013-06-01,South,Pipes,0
+2013-06-01,South,Tubes,9053.5
+2013-06-01,West,Accessories,2195
+2013-06-01,West,Construction Parts,18746.15
+2013-06-01,West,Pipes,0
+2013-06-01,West,Tubes,48506.62
+2013-07-01,Central,Accessories,10667.4
+2013-07-01,Central,Construction Parts,42250.89
+2013-07-01,Central,Pipes,18087.56
+2013-07-01,Central,Tubes,3899
+2013-07-01,East,Accessories,40718.5
+2013-07-01,East,Construction Parts,336489.62
+2013-07-01,East,Pipes,969948.22
+2013-07-01,East,Tubes,39296.76
+2013-07-01,North,Accessories,49421.64
+2013-07-01,North,Construction Parts,585142.26
+2013-07-01,North,Pipes,311371.99
+2013-07-01,North,Tubes,33658.09
+2013-07-01,South,Accessories,156101.29
+2013-07-01,South,Construction Parts,210876.5
+2013-07-01,South,Pipes,0
+2013-07-01,South,Tubes,52496.82
+2013-07-01,West,Accessories,309
+2013-07-01,West,Construction Parts,25674
+2013-07-01,West,Pipes,15915
+2013-07-01,West,Tubes,6967.87
+2013-08-01,Central,Accessories,24276.4
+2013-08-01,Central,Construction Parts,106601.79
+2013-08-01,Central,Pipes,56106
+2013-08-01,Central,Tubes,3601.5
+2013-08-01,East,Accessories,123354.8
+2013-08-01,East,Construction Parts,1156625.87
+2013-08-01,East,Pipes,481429.31
+2013-08-01,East,Tubes,48828.45
+2013-08-01,North,Accessories,77568.83
+2013-08-01,North,Construction Parts,311027.71
+2013-08-01,North,Pipes,337650.78
+2013-08-01,North,Tubes,62789.59
+2013-08-01,South,Accessories,132035.96
+2013-08-01,South,Construction Parts,26246.51
+2013-08-01,South,Pipes,13688.72
+2013-08-01,South,Tubes,138899.21
+2013-08-01,West,Accessories,1529.51
+2013-08-01,West,Construction Parts,51000
+2013-08-01,West,Pipes,12233.52
+2013-08-01,West,Tubes,999
+2013-09-01,Central,Accessories,20346
+2013-09-01,Central,Construction Parts,149880.13
+2013-09-01,Central,Pipes,3751.9
+2013-09-01,Central,Tubes,9160.2
+2013-09-01,East,Accessories,187332.65
+2013-09-01,East,Construction Parts,564065.65
+2013-09-01,East,Pipes,337166.08
+2013-09-01,East,Tubes,54635.1
+2013-09-01,North,Accessories,50475.15
+2013-09-01,North,Construction Parts,113652.43
+2013-09-01,North,Pipes,87493.9
+2013-09-01,North,Tubes,25539.29
+2013-09-01,South,Accessories,189556.23
+2013-09-01,South,Construction Parts,106475.44
+2013-09-01,South,Pipes,23659.98
+2013-09-01,South,Tubes,137682.43
+2013-09-01,West,Accessories,10771
+2013-09-01,West,Construction Parts,6405
+2013-09-01,West,Pipes,43697.52
+2013-09-01,West,Tubes,7897.8
+2013-10-01,Central,Accessories,18122.6
+2013-10-01,Central,Construction Parts,310737.79
+2013-10-01,Central,Pipes,4525.2
+2013-10-01,Central,Tubes,10797.55
+2013-10-01,East,Accessories,118837.67
+2013-10-01,East,Construction Parts,209828
+2013-10-01,East,Pipes,260799.12
+2013-10-01,East,Tubes,59196.08
+2013-10-01,North,Accessories,20710
+2013-10-01,North,Construction Parts,146749.11
+2013-10-01,North,Pipes,130162.84
+2013-10-01,North,Tubes,5926.64
+2013-10-01,South,Accessories,33497.65
+2013-10-01,South,Construction Parts,66230.52
+2013-10-01,South,Pipes,0
+2013-10-01,South,Tubes,56153.65
+2013-10-01,West,Accessories,3767
+2013-10-01,West,Construction Parts,18400
+2013-10-01,West,Pipes,54659.6
+2013-10-01,West,Tubes,2800
+2013-11-01,Central,Accessories,10715.5
+2013-11-01,Central,Construction Parts,66259.25
+2013-11-01,Central,Pipes,36571.95
+2013-11-01,Central,Tubes,12977.6
+2013-11-01,East,Accessories,49059.3
+2013-11-01,East,Construction Parts,88495.13
+2013-11-01,East,Pipes,224450.89
+2013-11-01,East,Tubes,16450.7
+2013-11-01,North,Accessories,4157.5
+2013-11-01,North,Construction Parts,12185.84
+2013-11-01,North,Pipes,14740.07
+2013-11-01,North,Tubes,6529
+2013-11-01,South,Accessories,38876.15
+2013-11-01,South,Construction Parts,58130.46
+2013-11-01,South,Pipes,0
+2013-11-01,South,Tubes,28128.86
+2013-11-01,West,Accessories,1547
+2013-11-01,West,Construction Parts,8967
+2013-11-01,West,Pipes,0
+2013-11-01,West,Tubes,336
+2013-12-01,Central,Accessories,7815.5
+2013-12-01,Central,Construction Parts,65685.08
+2013-12-01,Central,Pipes,34422.98
+2013-12-01,Central,Tubes,23501.4
+2013-12-01,East,Accessories,30860.64
+2013-12-01,East,Construction Parts,61784.88
+2013-12-01,East,Pipes,102477.64
+2013-12-01,East,Tubes,29760.94
+2013-12-01,North,Accessories,1260
+2013-12-01,North,Construction Parts,54041.38
+2013-12-01,North,Pipes,69174.31
+2013-12-01,North,Tubes,1170
+2013-12-01,South,Accessories,13722.28
+2013-12-01,South,Construction Parts,3975
+2013-12-01,South,Pipes,15718
+2013-12-01,South,Tubes,6971.25
+2013-12-01,West,Accessories,3280.4
+2013-12-01,West,Construction Parts,56370.72
+2013-12-01,West,Pipes,63839.03
+2013-12-01,West,Tubes,8580

@@ -1,0 +1,1 @@
+A simple program for generating passwords and storing them.
